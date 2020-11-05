@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1367799820 source:c:\alejandra\est\lenguaje de programación i\parciales y finales\p15may2013\main.cpp
+	<iostream>
+	"Factura.h"
+
+1368997264 c:\alejandra\est\lenguaje de programación i\parciales y finales\p15may2013\factura.h
+	"Articulo.h"
+	<iostream>
+
+1368997264 c:\alejandra\est\lenguaje de programación i\parciales y finales\p15may2013\articulo.h
+
+1367978168 source:c:\alejandra\est\lenguaje de programación i\parciales y finales\p15may2013\funciones.cpp
+	<iostream>
+	"Factura.h"
+	"Articulo.h"
+	<iomanip>
+	<string.h>
+

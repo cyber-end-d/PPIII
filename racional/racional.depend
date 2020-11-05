@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1556118272 source:d:\users\aulas\documents\programación 3\racional\funciones.cpp
+	<iostream>
+	"Racional.h"
+
+1556118637 d:\users\aulas\documents\programación 3\racional\racional.h
+	<iostream>
+

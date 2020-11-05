@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1557329597 source:d:\users\aulas\documents\programación 3\ej14\funciones.cpp
+	<iostream>
+	<stdlib.h>
+	"Arreglo.h"
+
+1557329598 d:\users\aulas\documents\programación 3\ej14\arreglo.h
+	<iostream>
+
+1557329618 source:d:\users\aulas\documents\programación 3\ej14\ej14\main.cpp
+	<iostream>
+	"Arreglo.h"
+
+1557329238 d:\users\aulas\documents\programación 3\ej14\ej14\arreglo.h
+	<iostream>
+

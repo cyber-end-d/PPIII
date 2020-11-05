@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1561330475 source:d:\weas\mierda\prog\prog3\2parc\main.cpp
+	<iostream>
+	"Empleado.h"
+	"Obrero.h"
+	"Gerente.h"
+	"Vendedor.h"
+	"ADestajo.h"
+
+1561330059 d:\weas\mierda\prog\prog3\2parc\empleado.h
+
+1561323245 d:\weas\mierda\prog\prog3\2parc\obrero.h
+	"Empleado.h"
+
+1561321743 d:\weas\mierda\prog\prog3\2parc\gerente.h
+	"Empleado.h"
+
+1561330452 d:\weas\mierda\prog\prog3\2parc\vendedor.h
+	"Empleado.h"
+
+1561323312 d:\weas\mierda\prog\prog3\2parc\adestajo.h
+	"Empleado.h"
+
+1561330482 source:d:\weas\mierda\prog\prog3\2parc\funciones.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	"Empleado.h"
+	"Obrero.h"
+	"Gerente.h"
+	"Vendedor.h"
+	"ADestajo.h"
+

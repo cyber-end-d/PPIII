@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1554910700 source:d:\users\aulas\documents\programación 3\10-4\funciones.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	<stdlib.h>
+	"Fecha.h"
+	"Empleado.h"
+
+1554902659 d:\users\aulas\documents\programación 3\10-4\fecha.h
+
+1554910661 d:\users\aulas\documents\programación 3\10-4\empleado.h
+
+1554910705 source:d:\users\aulas\documents\programación 3\10-4\main.cpp
+	<iostream>
+	<string>
+	"Fecha.h"
+	"Empleado.h"
+

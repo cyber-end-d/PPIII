@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1557871825 source:d:\weas\mierda\prog\prog3\e14\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Arreglo.h"
+
+1557871234 d:\weas\mierda\prog\prog3\e14\arreglo.h
+	<iostream>
+
+1557871695 source:d:\weas\mierda\prog\prog3\e14\funciones.cpp
+	<iostream>
+	<stdlib.h>
+	"Arreglo.h"
+

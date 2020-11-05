@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1561512673 source:d:\weas\mierda\prog\prog3\aaaaq\main.cpp
+	<iostream>
+	"Empleado.h"
+	"Gerente.h"
+	"Obrero.h"
+	"Vendedor.h"
+	"ADestajo.h"
+
+1561512895 d:\weas\mierda\prog\prog3\aaaaq\empleado.h
+	<iostream>
+
+1561422727 d:\weas\mierda\prog\prog3\aaaaq\gerente.h
+	<iostream>
+	"Empleado.h"
+
+1561419341 d:\weas\mierda\prog\prog3\aaaaq\obrero.h
+	<iostream>
+	"Empleado.h"
+
+1561511724 d:\weas\mierda\prog\prog3\aaaaq\vendedor.h
+	<iostream>
+	"Empleado.h"
+
+1561512168 d:\weas\mierda\prog\prog3\aaaaq\adestajo.h
+	<iostream>
+	"Empleado.h"
+

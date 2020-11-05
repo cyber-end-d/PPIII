@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1557879019 source:d:\weas\mierda\prog\prog3\modparc\main.cpp
+	<iostream>
+	"Factura.h"
+	"Articulos.h"
+
+1557878794 d:\weas\mierda\prog\prog3\modparc\factura.h
+	<iostream>
+	"Articulos.h"
+
+1557878905 d:\weas\mierda\prog\prog3\modparc\articulos.h
+	<iostream>
+
+1557879131 source:d:\weas\mierda\prog\prog3\modparc\funciones.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	"Factura.h"
+	"Articulos.h"
+
